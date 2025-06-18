@@ -72,8 +72,8 @@ kalmannet_filtered = kalmannet_model(torch.tensor(keypoints[None, :, :]).float()
 
 ### Ссылки
 
-- [KalmanNet: Neural Network Kalman Filtering](https://arxiv.org/abs/2107.10043)[^1]
-- [DANSE: Data-driven Nonlinear State Estimation](https://arxiv.org/abs/2410.12289)[^2]
+- [KalmanNet: Neural Network Kalman Filtering](https://arxiv.org/abs/2107.10043)
+- [DANSE: Data-driven Nonlinear State Estimation](https://arxiv.org/abs/2410.12289)
 - [AI-Aided Kalman Filters](https://arxiv.org/abs/2410.12289)
 
 ---
